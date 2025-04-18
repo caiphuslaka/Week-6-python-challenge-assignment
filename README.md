@@ -48,16 +48,3 @@ def display_tricks(self):
 
 print(f"{self.name} is familiar with these tricks: {', '.join(self.tricks) if self.tricks else 'No tricks acquired.'}")
 
-Sure! Please provide the text you would like me to paraphrase.
-
-my_animal = Pet("Buddy")
-
-my_pet.retrieve_status()
-
-my_pet.feed()
-
-my_pet.execute_play()
-
-my_pet.nap()
-
-my_pet.train("Lay Down")
